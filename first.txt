@@ -1,0 +1,9 @@
+5+ years of professional experience with .Net framework is required.
+High level of proficiency with ASP.Net, C#.Net is required.
+Experience with LINQ, WCF 3.5, HTML, CSS is required.
+Experience with Agile development methodology, requirements gathering and analysis is required.
+Experience with nHibernate, MS Entity Framework is highly desired.
+Experience with MS SQL Server or Oracle 10G is highly desired. Must know how to write T-SQL queries or PL/SQL statements.
+Experience with large, complex project such as for Government functions is highly desired.
+Education: Bachelor's Degree preferably in Information Technology.
+Candidates MUST be willing to relocate to the assigned location.
